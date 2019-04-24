@@ -1,5 +1,7 @@
 import java.util.Scanner;
 
+//Cambio del alumno 2 (Manuel Ángel Rosendo Pineda 2)
+
 public class Ejercicio1 {
 		
 	// Constantes
